@@ -1,1 +1,1 @@
-Readme Version 2
+Practice Project Vanilla JS. Manipulating DOM-Elements + localStorage.
